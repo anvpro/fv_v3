@@ -1,0 +1,14 @@
+2025-10-22 19:27:44 - Iniciando revalorización para mes 2025-09
+2025-10-22 19:27:57 - Iniciando revalorización para mes 2025-09
+2025-10-22 19:28:53 - Iniciando revalorización para mes 2025-09
+2025-10-22 19:33:34 - Iniciando revalorización para mes 2025-09
+2025-10-22 19:37:20 - Iniciando revalorización para mes 2025-09
+2025-10-22 19:37:20 - Columna score_date agregada.
+2025-10-22 19:37:20 - Columna capital agregada con default 60000000.
+2025-10-22 19:37:20 - Jugador ID 4: Avg 0 -> Price 2000000.00 to 1800000 (down)
+2025-10-22 19:37:20 - Capital ajustado por -200000 para owners de ID 4
+2025-10-22 19:37:20 - Revalorización completada: 1 jugadores actualizados para 2025-09
+2025-10-22 20:51:28 - Iniciando revalorización para mes 2025-09
+2025-10-22 20:51:28 - Jugador ID 4: Avg 0 -> Price 2000000.00 to 1800000 (down)
+2025-10-22 20:51:28 - Capital ajustado por -200000 para owners de ID 4
+2025-10-22 20:51:28 - Revalorización completada: 1 jugadores actualizados para 2025-09
